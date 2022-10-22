@@ -11,8 +11,7 @@ There are hundreds of iconic video games that have taken the world by storm over
 
 ### Wireframes
 
-![Video Game Search App Wireframe](![my-image1](https://user-images.githubusercontent.com/114807641/197364045-e69acdc0-1378-4402-b72c-cd63b7b9471c.jpeg)
-)
+![Video Game Search App Wireframe](![my-image1](https://user-images.githubusercontent.com/114807641/197364045-e69acdc0-1378-4402-b72c-cd63b7b9471c.jpeg))
 
 ### Daily Plan
 
