@@ -1,6 +1,6 @@
 # Video Game Search App
 
-There are hundreds of iconic video games that have taken the world by storm over the years. I want to build an app that derives from an API that similar to our movie app that will search and display lots of information on said games by simply searching their name.
+So originally I was gonna make a Video Game Search app that pulled from an API full of info on most popular games that exist, but I couldn't get the API to work properly. It wanted me to register to become like a Twitch Dev or something and I couldn't get it all to work. So inevitebly I swapped over to the Trivia Game backup due to time and IRL restrictions instead. I have decided to keep the original stuff here to show what my plan was gonna be until I messed it up. 
 
 ### Technologies Used
 
@@ -26,4 +26,4 @@ There are hundreds of iconic video games that have taken the world by storm over
 | 6 | Extra Day if needed
 
 ### Link to Project
-[My Project Live Page](https://www.google.com)
+[My Project Live Page](http://127.0.0.1:5500/index.html)
